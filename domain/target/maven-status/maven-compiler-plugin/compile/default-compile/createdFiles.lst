@@ -1,0 +1,5 @@
+org\example\ports\spi\BookDataPort.class
+org\example\data\BookPriceDto.class
+org\example\service\BookServiceImpl.class
+org\example\ports\api\BookServicePort.class
+org\example\data\BookDto.class
