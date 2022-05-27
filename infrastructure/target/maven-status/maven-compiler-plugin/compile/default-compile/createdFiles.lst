@@ -1,0 +1,6 @@
+org\example\entity\projections\BookPrice.class
+org\example\repository\BookRepository.class
+org\example\entity\Book.class
+org\example\mappers\BookMapper.class
+org\example\mappers\BookMapperImpl.class
+org\example\adapters\BookJpaAdapter.class

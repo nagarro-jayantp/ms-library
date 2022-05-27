@@ -1,0 +1,5 @@
+C:\my_folder\workspace\ms-library\infrastructure\src\main\java\org\example\entity\Book.java
+C:\my_folder\workspace\ms-library\infrastructure\src\main\java\org\example\entity\projections\BookPrice.java
+C:\my_folder\workspace\ms-library\infrastructure\src\main\java\org\example\repository\BookRepository.java
+C:\my_folder\workspace\ms-library\infrastructure\src\main\java\org\example\adapters\BookJpaAdapter.java
+C:\my_folder\workspace\ms-library\infrastructure\src\main\java\org\example\mappers\BookMapper.java
